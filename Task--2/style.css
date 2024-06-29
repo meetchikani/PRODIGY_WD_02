@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #334332;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.container {
+    text-align: center;
+    background: #85a284;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#display {
+    font-size: 64px;
+    margin: 20px 0;
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    border-radius: 8px;
+    background: #334332;
+    color: white;
+}
+
+/* .laps {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.laps ul {
+    list-style: none;
+    padding: 0;
+}
+
+.laps li {
+    background: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+} */
